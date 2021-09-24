@@ -1,0 +1,53 @@
+body {
+  background-color: #FFEBCD;
+}
+
+h1{
+  font-size: 45px;
+  font-family: funFont;
+  color: #556B2F;
+}
+
+input {
+  background-color: #556B2F;
+  height: 75px;
+  width: 75px;
+  font-size: 38px;
+}
+
+#cl {
+  height: 75px;
+  width: 225px;
+  background-color: #DC143C;
+}
+
+@font-face {
+font-family: funFont;
+src: url(ZCOOLKuaiLe-Regular.ttf);
+}
+
+@font-face {
+  font-family: ZCool;
+  src: url(Slabo27px-Regular.ttf)
+}
+
+p{
+  font-family: ZCool;
+  color: #556B2F;
+  font-size: 35px;
+}
+
+table {
+  border: solid 10px #556B2F;
+}
+
+input:hover{
+background color: #DC143C;
+height: 68px;
+width:  68px;
+text-align: center;
+}
+
+hr {
+  border: dotted 5px black;
+}
